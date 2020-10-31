@@ -17,3 +17,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Video Showcase: https://www.youtube.com/watch?v=yDM8uhSV1nY
+https://img.youtube.com/vi/yDM8uhSV1nY/maxresdefault.jpg
+https://img.youtube.com/vi/yDM8uhSV1nY/hqdefault.jpg
