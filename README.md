@@ -1,5 +1,7 @@
 # Time Dilation Tracker
-
+This app allow user to calculate their special relativity values after traveling with a certain velocity and time. 
+- In Manual Mode, user will input their time and distance traveled and the app will translate that data into special relativity constants such as proper time, Lorenz value, etc
+- In Automatic Mode, the app will use GPS data to automatically keep track of user's velocity and translate that data into special relativity constants such as proper time, Lorenz value, etc over cumulative collection of data.
 
 ## Getting Started
 
